@@ -5,6 +5,7 @@ Projects I built while learning to work with LLMs, AI agents and coding assistan
 ## Main project: AI Ticket Management System
 
 **[Repository](https://github.com/elizaveta-sk/ai_ticket_management_system) · [Live demo](https://aiticketmanagement.netlify.app/contact & https://aiticketmanagement.netlify.app/login)**
+*might take a minute to load - free server tier
 
 sample user for the login page = 
 lucy_agent.example.com password123

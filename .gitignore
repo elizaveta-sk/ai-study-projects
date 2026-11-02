@@ -1,0 +1,8 @@
+.env
+.DS_Store
+__pycache__/
+.ipynb_checkpoints/
+
+# Separate repos on GitHub, linked from the README
+expense-tracker-starter/
+ragchatbot-codebase/

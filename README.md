@@ -8,7 +8,7 @@ Projects I built while learning to work with LLMs, AI agents and coding assistan
 *might take a minute to load, because it's a free server tier. if you get any type of error logging in, retry in a minute.
 
 sample user for the login page = 
-lucy_agent.example.com password123
+lucy_agent@example.com password123
 
 A support desk for an online course provider. An AI agent answers the questions it can from a knowledge base and passes everything else to a human support team on a ticket management platform.
 
